@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homework2-gittigidiyor/homework2-gittigidiyor.iml" filepath="$PROJECT_DIR$/homework2-gittigidiyor/homework2-gittigidiyor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpademo/jpademo.iml" filepath="$PROJECT_DIR$/jpademo/jpademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework2-gittigidiyor/jpaprojesi.iml" filepath="$PROJECT_DIR$/homework2-gittigidiyor/jpaprojesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeGittiGidiyor.iml" filepath="$PROJECT_DIR$/projeGittiGidiyor.iml" />
+    </modules>
+  </component>
+</project>
